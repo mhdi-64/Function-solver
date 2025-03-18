@@ -5,8 +5,8 @@
 double f(double x){
     double fx;
 
-    // Insert your function here:
-    fx=sin(x*x*x*x*x);
+    /* Insert your function here: */
+    fx=x*x-x-1;
     
     return fx;
 }
