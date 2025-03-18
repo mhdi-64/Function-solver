@@ -4,5 +4,5 @@ This is a program that calculates the solutions of a given functions for a given
 
 Thanks to Louafi islem (Louafiorx) for helping me with the idea!
 
-## Claimer
+## cons
 you must open the program and edit the function you want to get its solution, as the idea of inputing right in the terminal is kinda hard
