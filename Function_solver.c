@@ -21,7 +21,7 @@ int main(){
     scanf("%lf",&fin);
     puts("The subdomain range [x;x+rang] c D (depending on how complicated your function is):");
     scanf("%lf",&rang);
-    while(rang>1 || rang<0.1){
+    if(rang>1 || rang<0.1){
         puts("range is unpractical");
         scanf("%lf",&rang);
     }
