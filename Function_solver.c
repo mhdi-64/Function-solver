@@ -14,8 +14,7 @@ double f(double x){
 int main(){
     double a,fin,rang;
 
-    puts("put your domain [start;finish]=D you want to find the value at which f(x) may = 0\n");
-    puts("Starting value:");
+    puts("put your domain [start;finish]=D you want to find the value at which f(x) may = 0\nStarting value:");
     scanf("%lf",&a);
     puts("Finishing value:");
     scanf("%lf",&fin);
