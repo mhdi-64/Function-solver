@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <math.h>
-#include <windows.h>
 
 double f(double x){
     double fx;
@@ -46,7 +45,6 @@ int main(){
         B+=rang;
         a=A;
         b=B;
-        Sleep(100);
     }
 
     return 0;
